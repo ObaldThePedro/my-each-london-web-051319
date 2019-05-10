@@ -7,6 +7,5 @@ my_each(array) do
     while i < array.length
       puts array[i]
       i+=1
-      end
+    end
     array
-end
