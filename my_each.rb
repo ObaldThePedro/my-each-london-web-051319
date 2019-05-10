@@ -8,4 +8,4 @@ my_each(array) do
       puts array[i]
       i+=1
     end
-    array
+array
